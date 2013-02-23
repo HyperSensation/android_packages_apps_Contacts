@@ -203,7 +203,7 @@
     <style name="JoinContactActivityTheme" parent="ContactPickerTheme" >
     </style>
 
-    <style name="ContactsPreferencesTheme" parent="@android:Theme.Holo.Light">
+    <style name="ContactsPreferencesTheme" parent="@android:Theme.Holo">
         <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
 
